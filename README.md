@@ -167,5 +167,12 @@ python -m torch.distributed.run --nproc_per_node=8 anydoor_llava.py \
 If you find this project useful in your research, please consider citing our paper:
 
 ```
-
+@article{
+      lu2024testtime,
+      title={Test-Time Backdoor Attacks on Multimodal Large Language Models},
+      author={Lu, Dong and Pang, Tianyu 
+        and Du, Chao and Liu, Qian and Yang, Xianjun and Lin, Min},
+      journal={arXiv preprint arXiv:2402.08577},
+      year={2024},
+      }
 ```
