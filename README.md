@@ -12,7 +12,7 @@
 <p align='left' style="text-align:left;font-size:1.2em;">
 <b>
     [<a href="https://sail-sg.github.io/AnyDoor/" target="_blank" style="text-decoration: none;">Project Page</a>] |
-    [<a href="" target="_blank" style="text-decoration: none;">arXiv</a>] | 
+    [<a href="https://arxiv.org/abs/2402.08577" target="_blank" style="text-decoration: none;">arXiv</a>] | 
     [<a href="https://drive.google.com/drive/folders/1VnJMBtr1_zJM2sgPeL3iOrvVKCk0QcbY?usp=drive_link" target="_blank" style="text-decoration: none;">Data Repository</a>]&nbsp;
 </b>
 </p>
